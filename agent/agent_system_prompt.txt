@@ -97,11 +97,6 @@
      - Politely end: “Is there anything else I can help with today?”
  </interaction_flow>
 
-<response_requirements>
-  - When answering questions about exhibition halls, always include the venue name together with the available halls.
-  - Example: "The San Francisco Convention Center has two exhibition halls: Hall A and Hall B."
-</response_requirements>
-
   <communication_guidelines>
     - Be concise, short messages.
     - Ask one or two questions at a time.
